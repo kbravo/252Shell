@@ -1,0 +1,26 @@
+total 376
+drwxr-S--- 4 yadav11 yadav11  4096 Mar  3 22:46 .
+drwxr-sr-x 9 yadav11 yadav11  4096 Feb 28 22:51 ..
+drwxr-s--- 7 yadav11 yadav11  4096 Mar  3 22:42 .git
+-rw-r----- 1 yadav11 yadav11    15 Feb 12 06:40 .hello
+-rw-r----- 1 yadav11 yadav11 11287 Mar  3 22:42 .local.git.out
+-rwxr-x--- 1 yadav11 yadav11   758 Feb 15 22:15 Makefile
+-rwxr-x--- 1 yadav11 yadav11 20816 Feb 29 12:52 cat_grep
+-rwxr-x--- 1 yadav11 yadav11  2927 Feb 12 06:40 cat_grep.cc
+-rwxr-x--- 1 yadav11 yadav11  5480 Mar  3 22:39 command.cc
+-rwxr-x--- 1 yadav11 yadav11   759 Mar  3 22:32 command.h
+-rw-r----- 1 yadav11 yadav11 27872 Mar  3 22:42 command.o
+-rwxr-x--- 1 yadav11 yadav11 12408 Feb 29 12:52 ctrl-c
+-rwxr-x--- 1 yadav11 yadav11   642 Feb 12 06:40 ctrl-c.cc
+-rw-r----- 1 yadav11 yadav11 45126 Feb 29 12:52 lex.yy.c
+-rw-r----- 1 yadav11 yadav11 43480 Feb 29 12:52 lex.yy.o
+-rwsr-S--T 1 yadav11 yadav11     0 Mar  3 22:46 out
+-rwxr-x--- 1 yadav11 yadav11 15736 Feb 29 12:52 regular
+-rwxr-x--- 1 yadav11 yadav11  1747 Feb 12 06:40 regular.cc
+-rwxr-x--- 1 yadav11 yadav11 56888 Mar  3 22:42 shell
+-rwxr-x--- 1 yadav11 yadav11   666 Feb 29 01:21 shell.l
+-rwxr-x--- 1 yadav11 yadav11  2002 Mar  3 22:42 shell.y
+drwxr-s--- 3 yadav11 yadav11  4096 Feb 15 22:08 test-shell
+-rw-r----- 1 yadav11 yadav11 49304 Mar  3 22:42 y.tab.c
+-rw-r----- 1 yadav11 yadav11  3025 Mar  3 22:42 y.tab.h
+-rw-r----- 1 yadav11 yadav11 17696 Mar  3 22:42 y.tab.o
